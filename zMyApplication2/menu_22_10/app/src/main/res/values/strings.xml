@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">menu_22_10</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="campo_buscar">Escriba el articulo</string>
+</resources>

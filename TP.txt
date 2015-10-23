@@ -1,0 +1,6 @@
+Inter Filter: (tag del manifest) indica q es lo que puede hacer la app, ej: sirve para sacar fotos, y luego android toma la app como una opc al querer sacar una foto.
+
+android:orderInCategory="100" app:showAsAction="never" -> aparece en el menu
+android:orderInCategory="100" app:showAsAction="always" -> aparece en la toolbar
+
+AccionBar <> ToolBar . AccionBar a partir de Android 5.0 se usa un widget llamado ToolBag con mas opcion
